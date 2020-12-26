@@ -1,0 +1,22 @@
+{
+  "name": "@cosminxu/hello-world-npm",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminxu/hello-world-npm.git"
+  },
+  "author": "Cosmin Stoian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosminxu/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/cosminxu/hello-world-npm#readme"
+}
